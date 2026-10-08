@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo is archived as the CocoaPods project is now in [maintenance mode](https://github.com/CocoaPods/CocoaPods).
+
 pod-template
 ============
 
